@@ -15,3 +15,7 @@ T
 $src/main/java/com/library/ui/Ui.java,a\6\a689475c07a7dd3d2b537fbf94511dbe201eb517
 L
 19-SR-TUMSOTHEAVAT-HW002.iml,2\d\2d5b9490de1c6058068ccae1d1cbbf4f32e1dd08
+T
+$.idea/libraries/fliptables_1_1_0.xml,e\9\e92f38558ab1c2fdbe176f4b0976c514f87df5ac
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
